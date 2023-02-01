@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/topicsflix/static/css/main.c6bfa3fa.css",
+    "main.js": "/topicsflix/static/js/main.07db318c.js",
+    "index.html": "/topicsflix/index.html",
+    "main.c6bfa3fa.css.map": "/topicsflix/static/css/main.c6bfa3fa.css.map",
+    "main.07db318c.js.map": "/topicsflix/static/js/main.07db318c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bfa3fa.css",
+    "static/js/main.07db318c.js"
+  ]
+}
