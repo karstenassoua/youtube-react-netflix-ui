@@ -26,9 +26,15 @@ export default function Featured({ type }) {
           </select>
         </div>
       )}
-      <img src="https://i.imgur.com/dA3soJx.jpeg" alt="" />
+      <img
+        src="https://previews.dropbox.com/p/thumb/ABzgYKU-YLia2Hw9fOIvZRyV757S4uv52fs-JVdeNe7HitBgJEe15RzoTw5kRxf4_PaT-krj7y1apGdaz6uKeBSrn_OtUveL3bKu358RiD5FayvnP-CSE5qgRAa10HK9DPz-IFmTTmRLE7HoCzhS9JlcwXO83zStYjo2ARmP_aLteP9WAygGf1Ja5ZadUu8ahsKj2ZZQp1s6rgm3zhNptzKTngHGy5hQa6rNIVk-Fn8z_yuoLmwZUwwq1KxfF8-Vd-j7mmlpxk02_mf8-gNqpkVKG2F7pD59zUVQUEBFxjB5N-WahGgcxQNnU8cWqVSE7ZCZWpxnZ9J502iLsG5HAuoXpVtmc9IqcgOxWRei9-UXFFLv5qGodvOQpUArJRJt6tua1dhaVKZF4kNLULXhv6EclNQ4TGT_dLYjYcTUmJWrkiD0e0iNP1Z-O_WRKZCFoSCBbNXsAhkXOLqujO5v5eXD0TY7WVH-kTJNoHGJDFourCreLCgGY-Nh-rAtdBT_ooM/p.png"
+        alt=""
+      />
       <div className="info">
-        <img src="https://i.imgur.com/2cBI0ei.png" alt="" />
+        <img
+          src="https://previews.dropbox.com/p/thumb/ABxZdsWHMFlf9ibiAL6pz5XiAOESIHpCC5mCwvBxO7Nv5vg7ZfKqnFLxQKuImesyzwpSj3S8l48gJ3M3XsA79ibd3G2DBWAByXZa0p7EIOOxL1EIVGDOnJYF-gDlg314djzL5AERls1gJ6DCwqCL_vCBLDCzkW6TgJvrkypjTmm8SiETqMTKcdRXL5TN6mQuapDi_oYkO2kvpuw9eVP7LFcUamUlB4Yn2dqj6_2AGRVYq6R5NdcSlxnlBVWG0s_PQEQl1ud_XxCVRtdpcd-_MhRlwLQVZRYsLOunHu5DJj3SRYZYiD_hn19e_6ZWwJY5NEanOBDU6buQ56yymSnS7RasaXMv5tcW_r76JCKFTSwfw8KtjkfWJbWR9K7n6bfwEV8/p.png"
+          alt=""
+        />
         <span className="desc">
           The Tokyo Bulls are on a mission to win one final championship, but
           the road to victory is far from easy. With aggressive fouls and injury
