@@ -27,12 +27,12 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src="https://camo.githubusercontent.com/5da32ce78e3099c2e8393d8cc450c1dd6ca22638e4dcb07e4bd0abce0cc8987e/68747470733a2f2f692e696d6775722e636f6d2f4d636453675a412e6a7067"
+        src="https://i.pinimg.com/originals/1a/ae/c3/1aaec352fe1a912544f7d4588fdd05da.gif"
         alt=""
       />
       <div className="info">
         <img
-          src="https://camo.githubusercontent.com/4b613836978bb680c9661c605c58cb0b618b2add0e2c4f1938ea8e69ca37aeb9/68747470733a2f2f692e696d6775722e636f6d2f7948456d7236562e706e67"
+          src="https://previews.dropbox.com/p/thumb/ABxZdsWHMFlf9ibiAL6pz5XiAOESIHpCC5mCwvBxO7Nv5vg7ZfKqnFLxQKuImesyzwpSj3S8l48gJ3M3XsA79ibd3G2DBWAByXZa0p7EIOOxL1EIVGDOnJYF-gDlg314djzL5AERls1gJ6DCwqCL_vCBLDCzkW6TgJvrkypjTmm8SiETqMTKcdRXL5TN6mQuapDi_oYkO2kvpuw9eVP7LFcUamUlB4Yn2dqj6_2AGRVYq6R5NdcSlxnlBVWG0s_PQEQl1ud_XxCVRtdpcd-_MhRlwLQVZRYsLOunHu5DJj3SRYZYiD_hn19e_6ZWwJY5NEanOBDU6buQ56yymSnS7RasaXMv5tcW_r76JCKFTSwfw8KtjkfWJbWR9K7n6bfwEV8/p.png"
           alt=""
         />
         <span className="desc">

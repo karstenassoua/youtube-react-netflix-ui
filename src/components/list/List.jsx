@@ -37,7 +37,7 @@ export default function List() {
         <div className="container" ref={listRef}>
           <ListItem
             index={0}
-            trailer="https://player.vimeo.com/video/195276636?h=3d3dc211e0&title=0&byline=0&portrait=0"
+            trailer="https://i.pinimg.com/originals/c1/ef/03/c1ef0385e8295e5df8b58efabd05f7b5.gif"
             src="https://camo.githubusercontent.com/a3c2752f69e387b29cd9579f6dbfbb685f2c16250c670d3e2a4eb42816935d68/68747470733a2f2f692e696d6775722e636f6d2f716247515a48472e706e67"
             duration="S8:E1: The Civil War"
             year="1927"
