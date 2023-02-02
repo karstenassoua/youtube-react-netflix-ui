@@ -3,6 +3,7 @@ import Featured from "../../components/featured/Featured";
 import React, { Component } from "react";
 import "./home.scss";
 import List from "../../components/list/List";
+import List2 from "../../components/list2/List2";
 
 const Home = () => {
   return (
@@ -10,7 +11,7 @@ const Home = () => {
       <Navbar />
       <Featured/>
       <List/>
-      <List/>
+      <List2/>
     </div>
   );
 };
