@@ -27,7 +27,7 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src="https://previews.dropbox.com/p/thumb/ABzgYKU-YLia2Hw9fOIvZRyV757S4uv52fs-JVdeNe7HitBgJEe15RzoTw5kRxf4_PaT-krj7y1apGdaz6uKeBSrn_OtUveL3bKu358RiD5FayvnP-CSE5qgRAa10HK9DPz-IFmTTmRLE7HoCzhS9JlcwXO83zStYjo2ARmP_aLteP9WAygGf1Ja5ZadUu8ahsKj2ZZQp1s6rgm3zhNptzKTngHGy5hQa6rNIVk-Fn8z_yuoLmwZUwwq1KxfF8-Vd-j7mmlpxk02_mf8-gNqpkVKG2F7pD59zUVQUEBFxjB5N-WahGgcxQNnU8cWqVSE7ZCZWpxnZ9J502iLsG5HAuoXpVtmc9IqcgOxWRei9-UXFFLv5qGodvOQpUArJRJt6tua1dhaVKZF4kNLULXhv6EclNQ4TGT_dLYjYcTUmJWrkiD0e0iNP1Z-O_WRKZCFoSCBbNXsAhkXOLqujO5v5eXD0TY7WVH-kTJNoHGJDFourCreLCgGY-Nh-rAtdBT_ooM/p.png"
+        src="https://i.imgur.com/McdSgZA.jpg"
         alt=""
       />
       <div className="info">

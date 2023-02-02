@@ -38,7 +38,7 @@ export default function List() {
           <ListItem
             index={0}
             trailer="https://player.vimeo.com/video/195276636?h=3d3dc211e0&title=0&byline=0&portrait=0"
-            src="https://previews.dropbox.com/p/thumb/ABzEiYgkpJCi2zKh4r59SZWrVJj8DTK-sXAYMTGtkKlW58OALzTmugFBp3lIBaFMevS7iW4CT-BiXZ1fVOfJjk5puA03spZSJDM0nFedJiZ2QceyWAZ_L7hy59DOJuscDGBNBL9h1w9EpwUqPcE4PxfcrJotAnaee35UH6yoF3w7HvRZ_hR9picNOREIDpDQxLti38jP8Z8hBvtygtDRHkfMNJHWJM66I_K8p3iY4AgTZ2CmZHb5U1BriNR7ZJAUfG4tgp6QbiMC7ZBEX_s-gXOeWOTy7Bz1vPBsKwfDMqxnDbCOb37DCRN2ayjJ88CGeZ740_LSW7fSCtErpjVceQsGpAUsXIC13aYRIjkqk1KSg_vbInE-r6hXIeaYk-7TyiY/p.png"
+            src="https://occ-0-2794-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVp3zMdItadLqYLhVbHoeiaikLnzZABqq-Luz3iYe9qGdJ5IT3EYz9YQYIbpWC869Jjy2gJwsALDUwHlnCZrquPLfk3HEeYTlZJVZo9wZNCMn7skHQZZDj-fPWNabY4rDYRH5Q.jpg?r=736"
             duration="S12:E13: Capture of Nanking"
             year="1937"
             desc=""
